@@ -1,0 +1,20 @@
+# Theme metadata
+name = "derisc"
+
+[light]
+  # Primary
+  primary = "#8f993e"
+
+  # Links
+  link = "#8f993e"
+  link_hover = "#8c8279"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#212121"
+  menu_text_active = "#8f993e"
+  menu_title = "#212121"
+
+  # Home sections
+  home_section_odd = "#fff"
+  home_section_even = "#fff"
