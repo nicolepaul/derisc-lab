@@ -10,7 +10,7 @@ last_name: Paul
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Doctoral student
 
 # Organizations/Affiliations
 organizations:
