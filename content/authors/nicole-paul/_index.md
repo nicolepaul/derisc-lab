@@ -15,6 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
   - name: University College London
+  - name: nicolepaul.io
     url: 'https://nicolepaul.io/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,4 +73,29 @@ user_groups:
   - Doctoral Students
 ---
 
-Lorem ipsum.
+I'm currently researching household displacement due to disasters at University College London (UCL). My background is in structural engineering and I have over nine years of experience quantifying disaster risks. At the Global Earthquake Model (GEM) Foundation, I conducted earthquake risk assessment at the national and regional scales. At Arup, I was focused on the campus and building-specific scales, with an emphasis on modeling recovery after disasters.
+
+<div class="container">
+  <div class="row justify-content-between">
+    <div class="col">
+      <h3>Experience</h3>
+        <ul class="fa-ul">
+        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Global Earthquake Model, 2019-2023</li>
+        <li><span class="portrait-title"><h3>Pavia, Italy</h3></span></li>
+        <li><span class="fa-li"><i class="fas fa-briefcase"></i></span>Arup, Risk and Resilience, 2014-2019</li>
+        <li><span class="portrait-title"><h3>San Francisco, CA, USA</h3></li>
+        </ul>
+    </div>
+    <div class="col">
+      <h3>Education</h3>
+        <ul class="fa-ul">
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>MSc Structural Engineering, 2015</li>
+        <li><span class="portrait-title"><h3>Stanford University</h3></li>
+        <li><span class="fa-li"><i class="fas fa-graduation-cap"></i></span>BSc Civil Engineering, 2013</li>
+        <li><span class="portrait-title"><h3>University of California, Berkeley</h3></li>
+        </ul>
+    </div>
+  </div>
+</div>
+
+{style="text-align: justify;"}

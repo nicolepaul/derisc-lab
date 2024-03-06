@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Research
 
 # Listing view
 view: compact

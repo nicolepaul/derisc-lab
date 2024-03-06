@@ -2,6 +2,7 @@
 title: "Tomorrow's Cities: Quantifying tomorrow's risks from natural hazards"
 date: 2020-01-10
 show_date: false
+draft: true
 math: true
 image:
   placement: 2
