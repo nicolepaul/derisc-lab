@@ -2,7 +2,7 @@
 name = "derisc"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@300,400,600&family=Roboto+Mono"
+google_fonts = "family=Montserrat:wght@400;600&family=Roboto+Mono"
 
 # Font families
 heading_font = "Montserrat"
