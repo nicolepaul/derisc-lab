@@ -15,24 +15,24 @@ sections:
         <br>
         We provide engineering-oriented research, education and knowledge exchange to support people-centred decision making for a safer and more resilient future against the uncertain physical and social impacts of multiple natural hazards
   
-  # - block: collection
-  #   content:
-  #     title: Latest News
-  #     subtitle:
-  #     text:
-  #     count: 5
-  #     filters:
-  #       author: ''
-  #       category: ''
-  #       exclude_featured: false
-  #       publication_type: ''
-  #       tag: ''
-  #     offset: 0
-  #     order: desc
-  #     page_type: post
-  #   design:
-  #     view: card
-  #     columns: '1'
+  - block: collection
+    content:
+      title: Latest news
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
   
   # - block: markdown
   #   content:
