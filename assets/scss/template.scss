@@ -12,48 +12,57 @@
 .fas,
 .fab,
 .ai {
-    font-size: 1.0em;
+  font-size: 1.0em;
 }
-h1, h2 {
+
+h1,
+h2 {
   padding-top: 1.5rem;
   font-weight: 600;
 }
+
 h3 {
   font-weight: 400;
 }
+
 .footnotes {
   font-size: 0.75em;
 }
+
 .portrait-title h2 {
   font-weight: 600;
 }
+
 .portrait-title h3 {
   font-weight: 400;
 }
+
 .author-card .card-subtitle {
   font-weight: 400;
 }
+
 .alert,
 .article-style aside,
 .alert-note {
-    color: #8f993e;
-    background-color: rgba(143, 153, 62, 0.1);
-    border-color: #8f993e;
+  color: #8f993e;
+  background-color: rgba(143, 153, 62, 0.1);
+  border-color: #8f993e;
 }
 
 .article-style aside p::before,
 div.alert>div:first-child::before {
-    position: absolute;
-    top: -0.5rem;
-    left: -2rem;
-    font-size: 1.5rem;
-    color: #8f993e;
-    font-family: 'Font Awesome 5 Free';
-    font-weight: 900;
-    content: '\f05a';
-    width: 1.5rem;
-    text-align: center;
+  position: absolute;
+  top: -0.5rem;
+  left: -2rem;
+  font-size: 1.5rem;
+  color: #8f993e;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f05a';
+  width: 1.5rem;
+  text-align: center;
 }
+
 .featured-image {
   position: relative;
   width: 70%;
