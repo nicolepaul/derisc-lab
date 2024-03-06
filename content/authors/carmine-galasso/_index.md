@@ -15,6 +15,7 @@ role: Professor
 # Organizations/Affiliations
 organizations:
   - name: University College London
+  - name: carminegalassoresearch.com
     url: 'https://www.carminegalassoresearch.com/'
 
 # Short bio (displayed in user profile at end of posts)
